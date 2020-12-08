@@ -144,7 +144,7 @@ module.exports = {
     },
     fontFamily: {
       sans: [
-        'Roboto',
+        'IBM Plex Sans',
         'system-ui',
         '-apple-system',
         'BlinkMacSystemFont',

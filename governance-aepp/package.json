@@ -11,9 +11,10 @@
     "@aeternity/aepp-sdk": "^7.4.1",
     "bignumber.js": "^9.0.0",
     "copy-to-clipboard": "^3.3.1",
+    "fontsource-ibm-plex-sans": "^3.0.9",
+    "jdenticon": "2.2.0",
     "vue": "^2.6.11",
-    "vue-router": "^3.2.0",
-    "jdenticon": "2.2.0"
+    "vue-router": "^3.2.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.8.4",
